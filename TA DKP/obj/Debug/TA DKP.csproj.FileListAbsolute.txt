@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\bin\Debug\TA DKP.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA DKP.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA_DKP.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA_DKP.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA DKP.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\bin\Debug\TA DKP.exe
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\bin\Debug\TA DKP.pdb
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA DKP.exe
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA DKP.pdb
+c:\users\user\documents\visual studio 2015\Projects\TA DKP\TA DKP\obj\Debug\TA_DKP.Form2.resources
